@@ -49,7 +49,7 @@ Acceptance Criteria
 ### Links
 ​
 - Solution URL: [https://github.com/AveryCaldwell/work-Day-Scheduler](https://github.com/AveryCaldwell/work-Day-Scheduler)
-- Live Site URL: [https://averycaldwell.github.io/work-Day-Scheduler/](https://averycaldwell.github.io/work-Day-Scheduler/)
+- Live Site URL: [ https://averycaldwell.github.io/work-Day-Scheduler/]( https://averycaldwell.github.io/work-Day-Scheduler/)
 ​
 ## My process
 ​
